@@ -1,0 +1,1 @@
+请确保已安装pycryptodomex和gmssl这两个库。以上代码使用pycryptodomex库提供的DSS模块来进行签名和验证操作，使用gmssl库提供的SM2模块进行SM2公私钥的生成和使用。
